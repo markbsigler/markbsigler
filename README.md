@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Mark B. Sigler
 
-You can use the [editor on GitHub](https://github.com/markbsigler/markbsigler/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##### Leader / Innovator / Transformation / Technologist / Products / Design / Agile / Lean / DevOps / Cloud / Big Data
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Product Management, Product Marketing and Product Development
 
-### Markdown
+- Business Management with P&L, Metrics driven for Startups and Fortune 500
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Technical expertise in Cloud, DevOps, and Big Data leveraging Automation and Orchestration
 
-```markdown
-Syntax highlighted code block
+- Entrepreneurial Collaborative Leader and Manager building Cross Functional Global Teams
 
-# Header 1
-## Header 2
-### Header 3
+- Market Vision and Competitive Analysis for Strategy and Sales Enablement
 
-- Bulleted
-- List
+- Content and Presentation for Compelling Value and Differentiation
 
-1. Numbered
-2. List
+- Community and Developer Advocate for Enterprise Software and Services
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/markbsigler/markbsigler/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- User Experience, Design Thinking and Metrics driven for Lean Agile Innovation
