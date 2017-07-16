@@ -17,3 +17,5 @@
 - Community and Developer Advocate for Enterprise Software and Services
 
 - User Experience, Design Thinking and Metrics driven for Lean Agile Innovation
+
+- [Patent 9,969,6971](https://www.google.com/patents/US9696971) Method and apparatus for generating and packaging integration workflow activities
