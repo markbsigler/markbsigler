@@ -10,7 +10,7 @@
 
 - Business Management with P&L, Metrics driven for Startups and Fortune 500
 
-- Technical expertise in Cloud, DevOps, and Big Data leveraging Automation and Orchestration
+- Expertise in Cloud, DevOps, and Big Data leveraging Automation and Orchestration
 
 - Entrepreneurial Collaborative Leader and Manager building Cross Functional Global Teams
 
@@ -21,6 +21,8 @@
 - Community and Developer Advocate for Enterprise Software and Services
 
 - User Experience, Design Thinking and Metrics driven for Lean Agile Innovation
+
+- Technical background in Software Engineering and IT Operations
 
 - Pragmatic Marketing and Scaled Agile Framework (SAFe)
 
