@@ -41,3 +41,10 @@
 - Business intelligence, analytics and data warehousing Big Data initiative for Disney
 
 - Boot strapped two start-ups, with a successful exit and Series A $9M respectively
+
+## RESOURCES
+- [LinkedIn](http://www.linkedin.com/in/markbsigler/)
+- [GitHub](https://github.com/markbsigler)
+- [Medium](https://medium.com/@markbsigler) 
+- [Twitter](https://twitter.com/markbsigler)
+- [USPTO](https://patents.google.com/patent/US9696971B1/en)
