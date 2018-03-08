@@ -42,7 +42,7 @@
 
 - [Emmy](http://emmyonline.com/) awarded to CNN for a digital transformation in _Next Generation Digital Newsroom_ initiative 
 
-- Petabyte scale high performance computing systems and workbench applications for geo-spatial and imagery archives and analystics for [NASA.gov](https://eospso.nasa.gov/) and [NGA.mil](https://www.nga.mil)
+- High performance computing and analytic applications for geo-spatial and imagery petabyte scale archives for [NASA.gov](https://eospso.nasa.gov/) and [NGA.mil](https://www.nga.mil)
 
 - Business intelligence, analytics and data warehousing Big Data initiative for Disney
 
