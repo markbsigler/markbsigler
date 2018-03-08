@@ -26,7 +26,7 @@
 
 ## PROJECTS
 
-- Patent [9,969,6971](https://www.google.com/patents/US9696971) awarded for a Rapid Development Kit tool for DevOps tool chain integration
+- Patent [9,969,6971](https://www.google.com/patents/US9696971) awarded with twenty-one claims for a _Rapid Development Kit_ developer tool for DevOps
 
 - Intelligent Automation _Autonomics_ platform on Amazon Web Services for Capgemini
 
