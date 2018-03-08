@@ -43,8 +43,10 @@
 - Boot strapped two start-ups, with a successful exit and Series A $9M respectively
 
 ## RESOURCES
-- [LinkedIn](http://www.linkedin.com/in/markbsigler/)
+- [Content](https://github.com/markbsigler/content)
+- [Pages](https://markbsigler.github.io/)
 - [GitHub](https://github.com/markbsigler)
+- [LinkedIn](http://www.linkedin.com/in/markbsigler/)
 - [Medium](https://medium.com/@markbsigler) 
 - [Twitter](https://twitter.com/markbsigler)
 - [USPTO](https://patents.google.com/patent/US9696971B1/en)
