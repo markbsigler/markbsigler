@@ -1,6 +1,8 @@
 # [Mark B. Sigler](https://www.linkedin.com/in/markbsigler/)
 
-##### Leader / Innovator / Transformation / Technologist / Products / Design / Agile / Lean / DevOps / Cloud / Big Data / Automation
+##### / Products / Design / Agile / Lean / 
+##### / DevOps / Cloud / Big Data / Automation /
+##### / Leader / Innovator / Transformation / Technologist / 
 
 ## SKILLS
 - Product Management, Product Marketing and Product Development
