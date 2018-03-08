@@ -5,6 +5,7 @@
 #### / Leader / Innovator / Transformation / Technologist / 
 
 ## SKILLS
+
 - Product Management, Product Marketing and Product Development
 
 - Business Management with P&L, Metrics driven for Startups and Fortune 500
@@ -24,11 +25,12 @@
 - Pragmatic Marketing and Scaled Agile Framework (SAFe)
 
 ## PROJECTS
-- Intelligent Automation platform based on Amazon Web Services for Capgemini
 
 - Patent [9,969,6971](https://www.google.com/patents/US9696971) awarded for a Rapid Development Kit tool for DevOps tool chain integration
 
-- DevOps ARA market leader per Gartner and Forrester for two products
+- Intelligent Automation _Autonomics_ platform on Amazon Web Services for Capgemini
+
+- DevOps Continuous Delivery ARA market leader per Gartner and Forrester for two products
 
 - Cloud, DevOps and Digital Transformation for Commonwealth Bank of Australia
 
@@ -38,13 +40,14 @@
 
 - [Emmy](http://emmyonline.com/) awarded to CNN for a digital transformation in _Next Generation Digital Newsroom_ initiative 
 
-- Petabyte scale high performance grid systems for geo-spatial and imagery for [NASA.gov](https://www.nasa.gov/) and [NGA.mil](https://www.nga.mil)
+- Petabyte scale high performance computing systems and workbench applications for geo-spatial and imagery for [NASA.gov](https://www.nasa.gov/) and [NGA.mil](https://www.nga.mil)
 
 - Business intelligence, analytics and data warehousing Big Data initiative for Disney
 
 - Boot strapped two start-ups, with a successful exit and Series A $9M respectively
 
 ## RESOURCES
+
 - [Content](https://github.com/markbsigler/content)
 - [Pages](https://markbsigler.github.io/)
 - [GitHub](https://github.com/markbsigler)
