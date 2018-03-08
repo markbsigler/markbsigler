@@ -34,11 +34,11 @@
 
 - Automation and orchestration of systems management and virtualization for Accenture
 
-- Mobile commerce payments service solutions for Nortel and mobile service providers
+- Mobile commerce payments service solutions for Nortel, Ericsson and mobile service providers
 
-- Emmy awarded to CNN for a digital transformation in Next Generation Digital Newsroom initiative 
+- [Emmy](http://emmyonline.com/) awarded to CNN for a digital transformation in _Next Generation Digital Newsroom_ initiative 
 
-- Petabyte scale high performance grid systems for geo-spatial and imagery for NASA and NGA
+- Petabyte scale high performance grid systems for geo-spatial and imagery for [NASA.gov](https://www.nasa.gov/) and [NGA.mil](https://www.nga.mil)
 
 - Business intelligence, analytics and data warehousing Big Data initiative for Disney
 
