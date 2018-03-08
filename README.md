@@ -12,7 +12,7 @@
 
 - Expertise in Cloud, DevOps, and Big Data leveraging Automation and Orchestration
 
-- Entrepreneurial Collaborative Leader and Manager building Cross Functional Global Teams
+- Entrepreneurial Collaborative Leader building Cross Functional Global Teams
 
 - Market Vision and Competitive Analysis for Strategy and Sales Enablement
 
