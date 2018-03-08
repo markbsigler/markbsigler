@@ -2,6 +2,7 @@
 
 ##### Leader / Innovator / Transformation / Technologist / Products / Design / Agile / Lean / DevOps / Cloud / Big Data / Automation
 
+## SKILLS
 - Product Management, Product Marketing and Product Development
 
 - Business Management with P&L, Metrics driven for Startups and Fortune 500
@@ -18,4 +19,23 @@
 
 - User Experience, Design Thinking and Metrics driven for Lean Agile Innovation
 
-- [Patent 9,969,6971](https://www.google.com/patents/US9696971) Method and apparatus for generating and packaging integration workflow activities
+## PROJECTS
+- Intelligent Automation platform based on Amazon Web Services for Capgemini
+
+- Patent [9,969,6971](https://www.google.com/patents/US9696971) awarded for a Rapid Development Kit tool for DevOps tool chain integration
+
+- DevOps ARA market leader per Gartner and Forrester for two products
+
+- Cloud, DevOps and Digital Transformation for Commonwealth Bank of Australia
+
+- Automation and orchestration of systems management and virtualization for Accenture
+
+- Mobile commerce payments service solutions for Nortel and mobile service providers
+
+- Emmy awarded to CNN for a digital transformation in Next Generation Digital Newsroom initiative 
+
+- Petabyte scale high performance grid systems for geo-spatial and imagery for NASA and NGA
+
+- Business intelligence, analytics and data warehousing Big Data initiative for Disney
+
+- Boot strapped two start-ups, with a successful exit and Series A $9M respectively
