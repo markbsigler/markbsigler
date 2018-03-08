@@ -19,6 +19,8 @@
 
 - User Experience, Design Thinking and Metrics driven for Lean Agile Innovation
 
+- Pragmatic Marketing and Scaled Agile Framework (SAFe)
+
 ## PROJECTS
 - Intelligent Automation platform based on Amazon Web Services for Capgemini
 
